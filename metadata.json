@@ -1,0 +1,6 @@
+{
+  "name": "KhelArena - Sports Venue Booking & Community",
+  "description": "Production-ready sports venue booking, court availability, instant payment, and player community marketplace platform for Patna and beyond.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
